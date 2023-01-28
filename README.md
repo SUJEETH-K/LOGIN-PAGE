@@ -1,2 +1,2 @@
-# RECIPE-APP
-An app built with flutter that is used for finding suitable ingredients and also suggests some healthy food according to the climate.
+# Login page.
+# A snippet code for login page designed specially for Food related apps.
